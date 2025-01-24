@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ShrutiPundir17/Simon-Says-Game/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ShrutiPundir17/Simon-Says-Game/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShrutiPundir17/Simon-Says-Game/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ShrutiPundir17/Simon-Says-Game/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ShrutiPundir17/Simon-Says-Game/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShrutiPundir17/Simon-Says-Game/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
