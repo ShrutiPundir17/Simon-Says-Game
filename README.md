@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShrutiPundir17/Simon-Says-Game/tree/master/0001-two-sum) |
+| [0055-jump-game](https://github.com/ShrutiPundir17/Simon-Says-Game/tree/master/0055-jump-game) |
 | [0169-majority-element](https://github.com/ShrutiPundir17/Simon-Says-Game/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShrutiPundir17/Simon-Says-Game/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShrutiPundir17/Simon-Says-Game/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/ShrutiPundir17/Simon-Says-Game/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/ShrutiPundir17/Simon-Says-Game/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
