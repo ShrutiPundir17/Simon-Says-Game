@@ -1,38 +1,16 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/ShrutiPundir17/Simon-Says-Game/tree/master/0001-two-sum) |
-| [0055-jump-game](https://github.com/ShrutiPundir17/Simon-Says-Game/tree/master/0055-jump-game) |
-| [0169-majority-element](https://github.com/ShrutiPundir17/Simon-Says-Game/tree/master/0169-majority-element) |
-| [0217-contains-duplicate](https://github.com/ShrutiPundir17/Simon-Says-Game/tree/master/0217-contains-duplicate) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/ShrutiPundir17/Simon-Says-Game/tree/master/0001-two-sum) |
-| [0169-majority-element](https://github.com/ShrutiPundir17/Simon-Says-Game/tree/master/0169-majority-element) |
-| [0217-contains-duplicate](https://github.com/ShrutiPundir17/Simon-Says-Game/tree/master/0217-contains-duplicate) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/ShrutiPundir17/Simon-Says-Game/tree/master/0169-majority-element) |
-## Sorting
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/ShrutiPundir17/Simon-Says-Game/tree/master/0169-majority-element) |
-| [0217-contains-duplicate](https://github.com/ShrutiPundir17/Simon-Says-Game/tree/master/0217-contains-duplicate) |
-## Counting
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/ShrutiPundir17/Simon-Says-Game/tree/master/0169-majority-element) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0055-jump-game](https://github.com/ShrutiPundir17/Simon-Says-Game/tree/master/0055-jump-game) |
-## Greedy
-|  |
-| ------- |
-| [0055-jump-game](https://github.com/ShrutiPundir17/Simon-Says-Game/tree/master/0055-jump-game) |
-<!---LeetCode Topics End-->
+🟢 Simon Says Game 🎮
+A fun and interactive Simon Says game built using HTML, CSS, and JavaScript! 🧠✨ Test your memory and reflexes by following the sequence of lights and sounds. Can you keep up?
+
+🚀 Features
+🎨 Colorful UI with smooth animations
+🔊 Sound effects for each button press
+🔢 Increasing difficulty as you progress
+🏆 High-score tracking
+
+📌 How to Play
+Watch the sequence carefully 🔍
+Repeat the pattern by clicking the buttons 🎯
+The sequence gets longer after every round! 🔄
+See how far you can go! 🚀
+
+![image](https://github.com/user-attachments/assets/14586571-e255-4992-934d-55c1abc06b64)
